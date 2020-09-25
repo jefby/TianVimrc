@@ -32,7 +32,7 @@ Tian Vimrc Config
 # short link
 curl -SL# git.io/tvimrc -o ~/.vimrc
 # or install script, will install plugins
-curl -sSL https://raw.githubusercontent.com/zthxxx/TianVimrc/master/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/jefby/TianVimrc/master/install.sh | bash
 ```
 
 里面的配置完全可以按照自己的情况改，基本上都有功能注释的。
